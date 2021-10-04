@@ -15,7 +15,7 @@ public class JFrameExample implements FocusListener {
 		new JFrameExample();
 	}
 	
-	JFrame window = new JFrame("Darren's Example GUI");
+	JFrame window = new JFrame("Darren's Example GUI #001");
 	JPanel panel = new JPanel();
 	
 	JFrameExample() {
